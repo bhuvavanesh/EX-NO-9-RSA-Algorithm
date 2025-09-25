@@ -1,8 +1,8 @@
 # EX-NO-9-RSA-Algorithm
 
 
-## NAME:Mohammed Faizal J
-## REG NO:212222100027
+## NAME:BHUVANESH KUMAR R
+## REG NO:212223040027
 
 
 ## AIM:
